@@ -1,2 +1,2 @@
-# It's the git pratice file
+# Sales forcasting project
 Some of the list codes are there
